@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,php,kotlin,swift,py,cs,ts,spring,angular,html,css,bootstrap,androidstudio,vscode,visualstudio,idea,eclipse,mysql,postgres,mongodb,sqlite,git,github,postman,powershell,selenium,docker,firebase,gcp,hibernate,maven,selenium,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,js,php,kotlin,swift,py,cs,ts,spring,angular,dotnet,html,css,bootstrap,androidstudio,vscode,visualstudio,idea,eclipse,mysql,postgres,mongodb,sqlite,git,github,postman,powershell,selenium,docker,firebase,gcp,hibernate,maven,selenium,linux&perline=12" />
   </a>
 </p>
 <br>
