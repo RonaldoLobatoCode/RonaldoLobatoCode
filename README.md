@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋  soy Ronaldo / RonaldoLobatoCode ✨ </h1> 
- <img src="codigo.png" />
+ <img src="codigo.png" width="100%"/>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ronaldo-lobato-apaza-660a70290" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
