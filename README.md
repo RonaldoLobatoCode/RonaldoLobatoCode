@@ -10,7 +10,7 @@
 <!--Intro start-->
 
 <p align="left">
-:heart: Desarrolador Backend
+:heart: Desarrollador Backend
   
 🎥 Egresado en Cibertec en la carrera de Computación e Informática. 
 
@@ -18,7 +18,7 @@
 
 🌐 Disfruto explorando nuevas tecnologías y tendencias en el mundo del desarrollo.
 
-👥 Adoro el trabajo en equipo y creo que la combinación de habilidades y perspectivas diversas es clave para alcanzar el éxito en cualquier proyecto.
+👥 Adoro el trabajo en equipo es clave para alcanzar el éxito en cualquier proyecto.
 
 📫 Contacto: **contactoronaldolobato@gmail.com**
 <!--Intro end-->
