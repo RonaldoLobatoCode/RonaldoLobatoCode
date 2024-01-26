@@ -12,8 +12,6 @@
 <p align="left">
 :heart: Desarrollador Backend
   
-🎥 Egresado en Cibertec en la carrera de Computación e Informática. 
-
 🚀 Apasionado por la programación y la resolución de problemas.
 
 🌐 Disfruto explorando nuevas tecnologías y tendencias en el mundo del desarrollo.
