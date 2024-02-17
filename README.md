@@ -1,5 +1,8 @@
 <h1 align="center">Hola 👋  soy Ronaldo / RonaldoLobatoCode ✨ </h1> 
- <img src="about.png" width="100%"/>
+<div style="margin: 0px auto">
+    <img src="code.png"/>
+</div>
+
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ronaldo-lobato-apaza-660a70290" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -10,7 +13,7 @@
 <!--Intro start-->
 
 <p align="left">
-:heart: Desarrollador Backend
+:heart: Desarrollador Full Stack
   
 🚀 Apasionado por la programación y la resolución de problemas.
 
