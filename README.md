@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋  soy Ronaldo / RonaldoLobatoCode ✨ </h1> 
-<div style="margin: 0px auto">
-    <img src="code.png"/>
-</div>
+<p align="center">
+    <img src="code.png" width="500" />
+</p>
+
 
 
 <p align="left">
